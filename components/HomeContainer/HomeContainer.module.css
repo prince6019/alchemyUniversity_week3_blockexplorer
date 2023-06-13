@@ -1,0 +1,19 @@
+.homeContainer{
+    width: 50%;
+}
+.homeContainer_container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    border-top: 1px solid gray;
+}
+.homeContainer_block_box{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.homeContainer_block_box h2{
+    margin-bottom: 2rem;
+}
+.homeContainer_block{
+    border-top: 1px solid gray;
+}
